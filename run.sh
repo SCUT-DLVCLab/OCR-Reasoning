@@ -1,0 +1,1 @@
+torchrun --nproc-per-node=1 run.py --data OCR_Reasoning --model GPT4o_20241120 --verbose
