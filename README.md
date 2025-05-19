@@ -51,6 +51,9 @@ python run.py --data OCR_Reasoning --model Qwen2.5-VL-7B-Instruct --verbose
 # 📖 Main Results
 ![main_results](assets/main_results.png)
 
+# 📖 Dataset Examples
+![examples](assets/examples.jpg)
+
 # 📜 License
 OCR-Reasoning is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
