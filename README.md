@@ -10,7 +10,8 @@
 </div>
 
 <h5 align="center">
-<a href="https://arxiv.org/pdf/2505.17163"> <img src="https://img.shields.io/badge/Arxiv-2505.17163-b31b1b.svg?logo=arXiv"></a><a href="https://huggingface.co/datasets/mx262/OCR-Reasoning"><img src="https://img.shields.io/badge/%20HuggingFace-OCRReasoning-FFD43B.svg?logo=huggingface"></a>
+<a href="https://arxiv.org/pdf/2505.17163"> <img src="https://img.shields.io/badge/Arxiv-2505.17163-b31b1b.svg?logo=arXiv"></a>
+<a href="https://huggingface.co/datasets/mx262/OCR-Reasoning"><img src="https://img.shields.io/badge/%20HuggingFace-OCRReasoning-FFD43B.svg?logo=huggingface"></a>
 </h5>
 
 
@@ -22,7 +23,9 @@ Recent advancements in multimodal slow-thinking systems have demonstrated remark
 
 # 🔥 News
 
-- **[`05/24/2025`]**: The evaluation of OCR-Reasoning is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). 
+- **[`05/24/2025`]**: The evaluation of OCR-Reasoning is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit).
+
+- **[`05/22/2025`]**: Our paper is now accessible at [arXiv](https://arxiv.org/abs/2505.17163).
 
 - **[`05/18/2025`]**: Release the [dataset](https://huggingface.co/datasets/mx262/OCR-Reasoning) and evaluation script.
 
