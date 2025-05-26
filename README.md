@@ -72,7 +72,12 @@ Some image are collected from [InfoVQA](https://openaccess.thecvf.com/content/WA
 If you find OCR-Reasoning helpful, please consider giving this repo a :star: and citing:
 
 ```latex
-
+@article{huang2025ocreasoning,
+      title={OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning}, 
+      author={Mingxin Huang and Yongxin Shi and Dezhi Peng and Songxuan Lai and Zecheng Xie and Lianwen Jin},
+      journal={arXiv preprint arXiv:2505.17163},
+      year={2025},
+}
 ```
 
 Thanks for your support!
