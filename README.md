@@ -62,12 +62,7 @@ python run.py --data OCR_Reasoning --model Qwen2.5-VL-7B-Instruct --verbose
 # 📜 License
 OCR-Reasoning is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-
-# 💗 Acknowledgement
-Some image are collected from [InfoVQA](https://openaccess.thecvf.com/content/WACV2022/papers/Mathew_InfographicVQA_WACV_2022_paper.pdf), [DocVQA](http://openaccess.thecvf.com/content/WACV2021/papers/Mathew_DocVQA_A_Dataset_for_VQA_on_Document_Images_WACV_2021_paper.pdf), [CharXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/cdf6f8e9fd9aeaf79b6024caec24f15b-Paper-Datasets_and_Benchmarks_Track.pdf), [WildReceipt](https://arxiv.org/pdf/2103.14470), and [MME-Finance](https://arxiv.org/pdf/2411.03314?).
-
-
-## ✒️Citation
+# ✒️Citation
 
 If you find OCR-Reasoning helpful, please consider giving this repo a :star: and citing:
 
