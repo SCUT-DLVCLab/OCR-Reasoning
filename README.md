@@ -22,6 +22,8 @@ Recent advancements in multimodal slow-thinking systems have demonstrated remark
 
 # 🔥 News
 
+- **[`05/18/2025`]**: The evaluation of OCR-Reasoning is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). 
+
 - **[`05/18/2025`]**: Release the [dataset](https://huggingface.co/datasets/mx262/OCR-Reasoning) and evaluation script.
 
 
