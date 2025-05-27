@@ -9,11 +9,10 @@
 </h5>
 </div>
 
-<h5 align="center">
-<a href="https://arxiv.org/pdf/2505.17163"> <img src="https://img.shields.io/badge/Arxiv-2505.17163-b31b1b.svg?logo=arXiv"></a>
-<a href="https://huggingface.co/datasets/mx262/OCR-Reasoning"><img src="https://img.shields.io/badge/%20HuggingFace-OCRReasoning-FFD43B.svg?logo=huggingface"></a>
-<a href="https://ocr-reasoning.github.io/"> <img src="https://img.shields.io/badge/Project-ocrreasoning-4183C4.svg?logo=Github"></a>
-</h5>
+
+<p align="center">
+        🌐 <a href="https://ocr-reasoning.github.io/"><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/mx262/OCR-Reasoning"><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp🏆 <a href="https://ocr-reasoning.github.io/#leaderboard_test"><b>Leaderboard</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/pdf/2505.17163"><b>Paper</b></a>&nbsp&nbsp
+</p>
 
 
 # 👋 Introduction
