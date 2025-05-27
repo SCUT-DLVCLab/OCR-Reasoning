@@ -35,7 +35,7 @@ Recent advancements in multimodal slow-thinking systems have demonstrated remark
 
 - **We concretely define various core sub-abilities for text-rich image reasoning.** OCR-Reasoning comprises a meticulously collected 1,069 human-annotated examples spanning 6 core reasoning abilities: spatial Reasoning, numerical analysis reasoning, mathematical reasoning, enumerative reasoning, logical reasoning, and multidisciplinary knowledge reasoning.
 
-- **The visual information in images is crucial for the OCR Reasoning task.** when we replace images with OCR results and feed them into LLMs, we observe that their accuracy is relatively low. This indicates that text alone is insufficient for solving text-rich image reasoning tasks.
+- **The visual information in images is crucial for the OCR Reasoning task.** When we replace images with OCR results and feed them into LLMs, we observe that their accuracy is relatively low. This indicates that text alone is insufficient for solving text-rich image reasoning tasks.
 
 - **Existing models still have room for improvement in OCR reasoning tasks.** Even state-of-the-art MLLMs exhibit substantial difficulties, with none achieving accuracy surpassing 50\% across OCR-Reasoning.
 
