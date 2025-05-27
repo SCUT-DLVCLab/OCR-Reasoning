@@ -12,6 +12,7 @@
 <h5 align="center">
 <a href="https://arxiv.org/pdf/2505.17163"> <img src="https://img.shields.io/badge/Arxiv-2505.17163-b31b1b.svg?logo=arXiv"></a>
 <a href="https://huggingface.co/datasets/mx262/OCR-Reasoning"><img src="https://img.shields.io/badge/%20HuggingFace-OCRReasoning-FFD43B.svg?logo=huggingface"></a>
+<img src="https://img.shields.io/badge/Arxiv-2505.17163-b31b1b.svg?logo=arXiv"></a> <a href="https://ocr-reasoning.github.io">
 </h5>
 
 
