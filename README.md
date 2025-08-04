@@ -68,11 +68,12 @@ If you find OCR-Reasoning helpful, please consider giving this repo a :star: and
 
 ```latex
 @article{huang2025ocreasoning,
-      title={OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning}, 
-      author={Mingxin Huang and Yongxin Shi and Dezhi Peng and Songxuan Lai and Zecheng Xie and Lianwen Jin},
-      journal={arXiv preprint arXiv:2505.17163},
-      year={2025},
+  title={OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning},
+  author={Huang, Mingxin and Shi, Yongxin and Peng, Dezhi and Lai, Songxuan and Xie, Zecheng and Jin, Lianwen},
+  journal={arXiv preprint arXiv:2505.17163},
+  year={2025}
 }
+
 ```
 
 Thanks for your support!
