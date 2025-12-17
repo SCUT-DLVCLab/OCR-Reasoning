@@ -60,7 +60,7 @@ python run.py --data OCR_Reasoning --model Qwen2.5-VL-7B-Instruct --verbose
 ![examples](assets/examples.jpg)
 
 # 📜 License
-OCR-Reasoning is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+OCR-Reasoning is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The original data of the dataset is sourced from publicly available channels such as the internet or open datasets, and its copyright belongs to the original providers. The curated and annotated dataset reported in this case is solely intended for non-commercial purposes.
 
 # ✒️Citation
 
