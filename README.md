@@ -5,7 +5,7 @@
 <div align="center">
 <h5>
 <em>Mingxin Huang<sup>1</sup>, Yongxin Shi<sup>1</sup>, Dezhi Peng<sup>2*</sup>, Songxuan Lai<sup>2</sup>, Zecheng Xie<sup>2</sup>, Lianwen Jin<sup>1*</sup></em>
-<br><sup>1</sup> South China University of Technology   &emsp; <sup>2</sup> Huawei Cloud</br>
+<br><sup>1</sup> South China University of Technology   &emsp; <sup>2</sup> Huawei Technologies Co., Ltd. </br>
 </h5>
 </div>
 
